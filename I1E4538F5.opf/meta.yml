@@ -6,7 +6,11 @@ imported: '2022-08-01T10:46:33.067629'
 last_modified: '2022-08-01T10:46:33.067665'
 parser: null
 source_metadata:
-  title: ཐུང་མོང་གི་རྩ་བ།txt
+  title: ཐུང་མོང་གི་རྩ་བ།
+  base:
+    EEE9:
+      title: ཐུང་མོང་གི་རྩ་བ།
+      base_file: EEE9.txt
 statistics: {}
 quality: {}
 copyright:
